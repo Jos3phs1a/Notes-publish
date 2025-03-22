@@ -1,0 +1,1 @@
+shaft of femur *slightly convex anteriorly*. stress along the bone is able to ==dissipate through compression along posterior shaft== + through tension along anterior shaft. Allowing femur to bear greater load compared to if being *perfectly straight*
