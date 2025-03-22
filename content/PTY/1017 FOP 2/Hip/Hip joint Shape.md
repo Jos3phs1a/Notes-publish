@@ -24,7 +24,7 @@ At birth: 40° anteversion
 avg adult: 15° between 8 - 20°
 Retroversion < (significant) 15°, [[Excessive anteversion]] >(significant) 15°
 
-![[Excalidraw/Drawing 2025-03-09 21.12.40.excalidraw.md#^group=JJXie_zlc5eGPluqw65qP|femoral torsion|center|700]]
+![[Hip#^group=JJXie_zlc5eGPluqw65qP|femoral torsion|center|700]]
 
 ## Acetabular alignment
 Typically measured using imaging technology
