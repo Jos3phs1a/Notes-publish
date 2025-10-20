@@ -1,0 +1,1 @@
+carries nutrient-rich blood from [[Small Intestine]], [[Gall Bladder]] [[Pancreas]] [[Spleen]] to [[Liver]]

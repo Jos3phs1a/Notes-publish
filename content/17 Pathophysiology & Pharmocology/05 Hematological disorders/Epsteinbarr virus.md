@@ -1,0 +1,1 @@
+common cause of some [[Lymphomas]], particularly certain types of [[Lymphomas#Hodgkin Lymphoma|Hodgkin lymphomas]] and certain B-cell lymphomas, by altering infected cells and promoting their uncontrolled growth

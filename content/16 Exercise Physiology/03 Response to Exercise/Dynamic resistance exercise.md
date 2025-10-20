@@ -1,0 +1,1 @@
+dynamic exercises involve movement through a range of motion

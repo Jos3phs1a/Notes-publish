@@ -1,0 +1,1 @@
+localized collection of blood outside of blood vessels, often due to injury or surgery

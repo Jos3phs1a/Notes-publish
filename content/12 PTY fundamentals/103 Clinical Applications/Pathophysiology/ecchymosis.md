@@ -1,0 +1,1 @@
+medical term for a bruise, specifically a larger bruise

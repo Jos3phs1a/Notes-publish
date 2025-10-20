@@ -1,0 +1,9 @@
+- [[Heart Conditions & Disorders#^3417b6|Ischemia]] or [[Cardiac arrythmias#Ischemia or Infarction|infarction]](ECG)
+- infection due to bacteria, viruses, parasites
+- [[Immune Diseases#Autoimmune|Autoimmune]]/[[Antibody-mediated immunity#^568059|allergic reactions]]
+- Direct physical damage due to, thermal, mechanical pressure/tear, radiation, electricity
+- Chemicals - exogenous/ endogenous
+- Genetic
+- Nutritional
+- Fluid/electrolyte imbalance
+- Foreign bodies

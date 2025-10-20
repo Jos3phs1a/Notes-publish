@@ -1,0 +1,1 @@
+a viscous fluid that fills the central lumen of thyroid follicles

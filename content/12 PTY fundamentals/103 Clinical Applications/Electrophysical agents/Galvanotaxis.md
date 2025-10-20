@@ -1,0 +1,1 @@
+directional movement of cells in response to ==electrical field== aka current, is important for cells engaged in various processes, including embryogenesis, regeneration, and wound healing.

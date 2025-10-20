@@ -1,0 +1,1 @@
+receiving pre-made antibodies from an external source, providing immediate but temporary protection against a disease

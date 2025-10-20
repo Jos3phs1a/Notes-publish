@@ -1,0 +1,1 @@
+when lactate concentration > 4mmol/L (fatigue occurs quickly)

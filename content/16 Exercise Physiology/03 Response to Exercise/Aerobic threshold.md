@@ -1,0 +1,1 @@
+exercise intensity at which blood lactate concentration rise above resting levels

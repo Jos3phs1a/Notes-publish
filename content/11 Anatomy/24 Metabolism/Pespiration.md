@@ -1,0 +1,3 @@
+- body's response to keep [[Body Temperature]] low
+- Result of [[temperature regulation]] mechanism
+- Rate of heat loss can be adjusted

@@ -1,0 +1,2 @@
+ensures that nerve signals from specific body regions are routed to corresponding areas from the  [[01c Spinal Cord|spinal cord]] to the [[01ba Anatomic Divisions of Brain|brain]] and vice versa, allowing for precise motor control and sensory processing.
+![[Pasted image 20250915123019.png|center|600]]

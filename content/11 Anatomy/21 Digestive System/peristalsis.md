@@ -1,0 +1,1 @@
+automatic wave-like movement of muscles to move food along GIT

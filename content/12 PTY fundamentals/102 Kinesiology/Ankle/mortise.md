@@ -1,0 +1,1 @@
+wood joint used by carpenters, forms concave shave, essential concept to joint stability at [[Talocrural Joint]]

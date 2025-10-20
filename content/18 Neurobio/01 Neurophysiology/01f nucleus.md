@@ -1,0 +1,3 @@
+In the [[01a Anatomical divisions#1. Central Nervous System(CNS)|CNS]] a **nucleus** refers to a **cluster (or collection) of neuronal cell bodies** that share a common function, input, or output.
+
+It’s analogous to a **“ganglion”** in the [[01a Anatomical divisions#2. Peripheral Nervous System(PNS)|PNS]] — except _nuclei_ are located **inside** the [[01ba Anatomic Divisions of Brain|brain]] or [[01c Spinal Cord|spinal cord]].

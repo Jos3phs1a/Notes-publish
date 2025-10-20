@@ -1,0 +1,1 @@
+a long-term blockage in the urinary tract that prevents normal urine flow, leading to urine back-up, swelling (hydronephrosis), and potential cause of [[02 Chronic kidney disease]]

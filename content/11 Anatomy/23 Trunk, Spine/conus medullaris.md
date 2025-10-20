@@ -1,0 +1,1 @@
+Point where spinal cord ends → at L1/2

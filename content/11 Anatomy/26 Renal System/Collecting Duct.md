@@ -1,0 +1,1 @@
+Lined with [[Types of Epithelial Tissue|Simple cuboidal epithelium]] with brush borders 

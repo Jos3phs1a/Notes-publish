@@ -1,0 +1,1 @@
+increased ventilation, meaning the body is breathing more deeply and/or more frequently than usual, to meet increased oxygen demand

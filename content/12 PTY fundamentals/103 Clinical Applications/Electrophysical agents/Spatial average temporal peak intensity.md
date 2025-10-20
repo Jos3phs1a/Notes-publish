@@ -1,0 +1,2 @@
+- average intensity during ON time of pulse
+- output meter displays SATP intensity

@@ -1,0 +1,1 @@
+Circumferential connective tissue, covers outer surface of bone

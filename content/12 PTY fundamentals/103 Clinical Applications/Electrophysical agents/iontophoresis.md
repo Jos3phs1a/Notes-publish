@@ -1,0 +1,1 @@
+uses low-amplitude DC to facilitate the delivery of medications through the skin. to promote transdermal drug delivery

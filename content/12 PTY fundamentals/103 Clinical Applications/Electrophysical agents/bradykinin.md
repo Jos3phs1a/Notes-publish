@@ -1,0 +1,2 @@
+-  nonapeptide that plays a crucial role in inflammation, pain, and blood pressure regulation
+-  **potent vasodilator**

@@ -1,0 +1,4 @@
+- waste products derived from muscle [[11 Anatomy/24 Metabolism/Metabolism|Metabolism]] 
+- present in the [[Blood Composition|blood stream]]
+- excreted in urine
+- Normal levels vary based on age, gender, body size
